@@ -1,6 +1,13 @@
 # Hangman Game 🎮
-
 This is a simple terminal-based Hangman game written in Python.
+ <pre> 
+ +---+
+ |   |
+ O   |
+/|\  |
+/ \  |
+ </pre>
+
 
 ## Features:
 - Random word selection
